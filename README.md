@@ -11,6 +11,7 @@ Boards manager link: `https://github.com/stm32duino/BoardManagerFiles/raw/master
 
 ## RedBearLab BLEnd
 
-Boards manager link: `https://redbearlab.github.io/arduino/package_redbearlab_index.json
-`
+Boards manager link: `https://redbearlab.github.io/arduino/package_redbearlab_index.json`
+
+
 ...
